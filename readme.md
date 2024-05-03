@@ -6,6 +6,11 @@ Este es un programa simple en Node.js que utiliza Express para crear un servidor
 
 1. Asegúrate de tener Node.js instalado en tu sistema.
 2. Clona este repositorio o descarga los archivos en tu máquina.
+3. Ejecuta el siguiente comando para instalar las dependencias:
+
+    ```bash
+    npm install
+    ```
 
 ## Uso
 
